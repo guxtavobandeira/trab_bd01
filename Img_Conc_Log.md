@@ -1,9 +1,10 @@
 # CONCEITUAL
 
 ## IMAGEM
-![img_conceitual](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/2f543de7-1155-4b5b-a049-626e8bc5da93)
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/50a8ed7e-bf22-4fe9-8e2a-0b91db3d2787)
 
 # LÓGICO
 
 ## IMAGEM
-![img_logico_bd](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/63232d25-4d51-4fca-b3d6-a575f51ed99b)
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/3289222c-8ff4-46cc-a4ff-3fa574205a9b)
+
