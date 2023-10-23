@@ -121,7 +121,7 @@
                         <select class="form-control" id="exampleInputPassword1" name="nome_bib">
                             <option selected>Selecione o Bibliotécaria</option>
                             <option value="Aureni">Aureni</option>
-                            <option value="Coisa">Coisa</option>
+                            <option value="Quitéria">Quitéria</option>
                         </select>
                     </div>
                 </div>
