@@ -10,7 +10,7 @@
 <body style="background-image: url(img.jpg);">
     <div class="container" style="text-align: center; margin-top: 120px; height: 440px; width: 550px; border: 2px solid white; border-radius: 10px;">
         <form method="post" action="salvar_biblioteca.php"> <br>
-            <h1 style="color: white;">BIBLIOTÉCARIA</h1>
+            <h1 style="color: white;">BIBLIOTECARIA</h1>
             <br>
             <BR></BR>
             <div class="row">
