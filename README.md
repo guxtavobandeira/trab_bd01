@@ -15,7 +15,7 @@ O aluno Paulo Henrique Gomes ficou responsável por outra parte da programação
 
 Os alunos Gustavo Bandeira e Gabriel Pinto ficaram responsáveis pela criação dos modelos Lógicos e Conceituais no BrModelo e a criação do gráfico.
 
-Os alunos Gustavo Bandeira e Francisco Arthur ficaram com a parte da criação de um documento de leitura informativo que será lido pelos uruários antes do acesso ao código (README).
+Os alunos Gustavo Bandeira e Francisco Arthur ficaram com a partO aluno Pae da criação de um documento de leitura informativo que será lido pelos uruários antes do acesso ao código (README).
 
 # O site/trabalho consistem em uma biblioteca da escola EEEP Manoel Mano, em que são seguidas as seguintes instruções:
 # 1- Ao entrar, o usuário poderá escolher oque deseja fazer, dentre isso estão as opções: 
@@ -46,8 +46,11 @@ Os alunos Gustavo Bandeira e Francisco Arthur ficaram com a parte da criação d
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/76a3aa12-0813-4222-8731-13918e902539)
 
 ## Imagem Modelo Conceitual:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/f8f18278-3455-4618-b387-cb7c3ed905a4)
 
-## Em outra observação, o trabalho pode ser uma visualização de um sistema de cadastro para a biblioteca da EEEP MANOEL MANO, em que o site esta visando melhorar e facilitar o recebimento e entrega de livros tanto para os alunos quanto para s bibliotecarias>
+
+## Em outra observação, o trabalho pode ser uma visualização de um sistema de cadastro para a biblioteca da EEEP MANOEL MANO, em que o site esta visando melhorar e facilitar o recebimento e entrega de livros tanto para os alunos quanto para s bibliotecarias. 
+## Agradecemos a visualização.
 
 
 
