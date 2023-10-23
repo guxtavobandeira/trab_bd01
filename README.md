@@ -43,6 +43,8 @@ Os alunos Gustavo Bandeira e Francisco Arthur ficaram com a parte da criação d
 
 # As imagens dos modelos lógicos e conceituais estão em suas devidas pastas no início da página do github, simultaneamente com os arquivos dos próprios e os das programações em PHP e arquivos em HTML.
 ## Imagem Modelo Lógico:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/76a3aa12-0813-4222-8731-13918e902539)
+
 ## Imagem Modelo Conceitual:
 
 ## Em outra observação, o trabalho pode ser uma visualização de um sistema de cadastro para a biblioteca da EEEP MANOEL MANO, em que o site esta visando melhorar e facilitar o recebimento e entrega de livros tanto para os alunos quanto para s bibliotecarias>
