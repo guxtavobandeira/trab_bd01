@@ -3,10 +3,13 @@
 # BIBLIOTECA EEEP MANOEL MANO
 
 ## O trabalho do 3° bimestre se resume na criação de um banco de dados, na qual o GRUPO 1 decidiu por fazer o código do BD de uma biblioteca escolar que mostra variáveis:
-. curso do aluno,
-. sexo do aluno 
-. série do aluno 
-. livro que está sendo consultado
+. Curso do aluno
+
+. Sexo do aluno 
+
+. Série do aluno 
+
+. Livro que está sendo consultado
 
 # Funcões:
 O aluno Francisco Flávio foi o responsável pela parte da programação em PHP e HTML. 
