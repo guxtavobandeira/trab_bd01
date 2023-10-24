@@ -161,60 +161,71 @@ ALTER TABLE aluno_livro ADD CONSTRAINT FK_aluno_livro_2
 
 # Consultas
 
+
+### Listar alunos do curso de Enfermagem;
 ```SQL
     SELECT * FROM aluno WHERE curso_aluno = 'Enfermagem'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/7839221c-05d9-4851-9865-85568180fbfe)
 
 
+### Listar alunos do curso de Informática;
 ```SQL
     SELECT * FROM aluno WHERE curso_aluno = 'Informática'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/48079be7-d35f-4747-b0a0-2f2a1601b5af)
 
 
+### Listar alunos do curso de Comércio;
 ```SQL
     SELECT * FROM aluno WHERE curso_aluno = 'Comércio'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/04eaf803-06e2-4b22-9977-20ecccde5797)
 
 
+### Listar alunos do curso de Administração;
 ```SQL
     SELECT * FROM aluno WHERE curso_aluno = 'Administração'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/ebe92028-538f-4768-b4a4-66ffe1e40318)
 
 
+### Listar usuários do sexo Masculino;
 ```SQL
     SELECT * FROM aluno WHERE sexo_aluno = 'Masculino'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/dc7954a1-ee5c-4f67-bd9a-f462b12fcc4e)
 
 
+### Listar usuários do sexo Feminino;
 ```SQL
     SELECT * FROM aluno WHERE sexo_aluno = 'Feminino'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/d4c07ed4-4295-460f-8d58-77afc53be234)
 
 
+### Listar usuários do 1º ano;
 ```SQL
     SELECT * FROM aluno WHERE serie = '1'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/41e8ebc2-e3e9-43c0-a62d-90a8ab11672c)
 
 
+### Listar consultas em que a bibliotecária seja a Aureni;
 ```SQL
     SELECT * FROM bibliotecaria WHERE nome_bib = 'Aureni'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/95c5408b-3af8-45ec-8328-513cc6972a54)
 
 
+### Listar livros cujo autor é Manoel Gomes;
 ```SQL
     SELECT * FROM livro WHERE autor = 'Manoel Gomes'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/3434f4b3-04e0-4d34-87ba-9f88d114f3c1)
 
 
+### Listar usuários do 3º ano;
 ```SQL
     SELECT * FROM aluno WHERE serie = '3'
 ```
