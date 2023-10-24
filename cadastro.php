@@ -117,7 +117,7 @@
                 <div class="row">
                     <div class="col-sm">
 
-                        <label for="" style="color: white;"> NOME DA BIBLIOTECARIA:</label>
+                        <label for="" style="color: white;"> NOME DA BIBLIOTECÁRIA:</label>
                         <select class="form-control" id="exampleInputPassword1" name="nome_bib">
                             <option selected>Selecione o Bibliotécaria</option>
                             <option value="Aureni">Aureni</option>
