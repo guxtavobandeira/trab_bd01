@@ -13,8 +13,15 @@
 
 ## 🔗 Integrantes
 
-[![GitHub](https://img.shields.io/badge/GitHub-guxtavobandeira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guxtavobandeira)
-[![GitHub](https://img.shields.io/badge/GitHub-JuniorHora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorHora)
+[![GitHub](https://img.shields.io/badge/GitHub-gustavo bandeira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guxtavobandeira)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Junior Hora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorHora)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Gabriel Pinto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielveraspinto)
+
+[![GitHub](https://img.shields.io/badge/GitHub-P Henrique-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phgomes40)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Arthur Melo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurmelo0)
 
 
 
