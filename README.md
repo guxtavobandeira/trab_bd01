@@ -37,7 +37,7 @@ A biblioteca, contém 3 básicas entidades:
 
 -Aluno;
 
--Bibliotecaria;
+-Bibliotecária;
 
 -Livro;
 
@@ -124,7 +124,7 @@ ALTER TABLE aluno_livro ADD CONSTRAINT FK_aluno_livro_2
 #### Aluno:
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/4fb7c387-5aef-4da4-9fd8-c1a6809c953c)
 
-#### Bibliotecaria:
+#### Bibliotecária:
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/3520b8e5-a61a-4ef5-a7e0-a9aa46fd6af6)
 
 #### Livro:
@@ -136,7 +136,7 @@ ALTER TABLE aluno_livro ADD CONSTRAINT FK_aluno_livro_2
 
 -Cadastrar Alunos
 
--Cadastrar Blibiotecaria
+-Cadastrar Blibiotecária
 
 -Cadastrar Livro
 
@@ -145,10 +145,10 @@ ALTER TABLE aluno_livro ADD CONSTRAINT FK_aluno_livro_2
 ## 2- Ao selecionar a primeira opção, o usuário deverá se cadastrar seguindo as informações necessárias, devendo colocar seu nome, sua série, seu curso, seu sexo e o livro que deseja ler e receber da escola.
 ## (Imagem Tela de Cadastro do aluno)
 
-## 3- Ao preencher seus dados, o aluno deverá passar a visualizar a segunda opção da tela inicial, a de cadastrar bibliotecarias. Asim, clicando a devida opção, o aluno será direcionado a outra tela, em que irá selecionar a bibliotecaria que lhe atendeu (Aureni ou Quitéria) e o livro que o próprio optou. 
-## (Imagem Tela de Cadastro da Bibliotecaria)
+## 3- Ao preencher seus dados, o aluno deverá passar a visualizar a segunda opção da tela inicial, a de cadastrar bibliotecarias. Asim, clicando a devida opção, o aluno será direcionado a outra tela, em que irá selecionar a bibliotecária que lhe atendeu (Aureni ou Quitéria) e o livro que o próprio optou. 
+## (Imagem Tela de Cadastro da Bibliotecária)
 
-## 4- Após isso, o comando da tela passará para a bibliotecaria, em que a própria devrá preencher os campos da terceira opção, ou seja, os dados do livro, juntamente com a data de entrega e de devolução do próprio:
+## 4- Após isso, o comando da tela passará para a bibliotecária, em que a própria devrá preencher os campos da terceira opção, ou seja, os dados do livro, juntamente com a data de entrega e de devolução do próprio:
 -Nome do livro:
 
 -Autor do livro:
@@ -158,7 +158,7 @@ ALTER TABLE aluno_livro ADD CONSTRAINT FK_aluno_livro_2
 -Data de devolução:
 
 -(Imagem Tela de Cadastro do Livro)
-##### Em outra observação, o trabalho pode ser uma visualização de um sistema de cadastro para a biblioteca da EEEP MANOEL MANO, em que o site esta visando melhorar e facilitar o recebimento e entrega de livros tanto para os alunos quanto para as bibliotecarias. 
+##### Em outra observação, o trabalho pode ser uma visualização de um sistema de cadastro para a biblioteca da EEEP MANOEL MANO, em que o site esta visando melhorar e facilitar o recebimento e entrega de livros tanto para os alunos quanto para as bibliotecárias. 
 # Agradecemos a visualização.
 
 
