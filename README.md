@@ -21,7 +21,7 @@ Desfrutem do sistema!
 [![GitHub](https://img.shields.io/badge/GitHub-ArthurMelo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurmelo0)
 
 # Funções:
-O aluno Francisco Flávio foi o responsável pela parte da programação em PHP e HTML. 
+O aluno Francisco Flávio foi o responsável pela parte da programação em PHP e na linguagem de marcação HTML. 
 
 O aluno Paulo Henrique Gomes ficou responsável por outra parte da programação em PHP.
 
