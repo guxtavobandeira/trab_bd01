@@ -134,30 +134,22 @@ ALTER TABLE aluno_livro ADD CONSTRAINT FK_aluno_livro_2
 
 ## 1- Ao entrar, o usuário poderá escolher oque deseja fazer, dentre isso estão as opções: 
 
--Cadastrar Alunos
+-Cadastrar 
 
--Cadastrar Blibiotecária
+-Visualizar tabelas
 
--Cadastrar Livro
-
-## (Imagem Tela Inicial do site)
+![Captura de tela 2023-10-24 084915](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/94c997ad-3055-4fef-8f5e-fc63cd4fdcf6)
 
 ## 2- Ao selecionar a primeira opção, o usuário deverá se cadastrar seguindo as informações necessárias, devendo colocar seu nome, sua série, seu curso, seu sexo e o livro que deseja ler e receber da escola.
-## (Imagem Tela de Cadastro do aluno)
+## Ao preencher seus dados, o aluno deverá passar a visualizar a segunda opção da tela de cadastro, a de preencher bibliotecarias. Assim, clicando na devida opção, o aluno será direcionado a outra tela, em que irá selecionar a bibliotecária que lhe atendeu (Aureni ou Quitéria) e o livro que o próprio optou. 
+## Após isso, o comando da tela passará para a bibliotecária, em que a própria devrá preencher os campos da terceira opção, ou seja, os dados do livro, juntamente com a data de entrega e de devolução do próprio:
 
-## 3- Ao preencher seus dados, o aluno deverá passar a visualizar a segunda opção da tela inicial, a de cadastrar bibliotecarias. Asim, clicando a devida opção, o aluno será direcionado a outra tela, em que irá selecionar a bibliotecária que lhe atendeu (Aureni ou Quitéria) e o livro que o próprio optou. 
-## (Imagem Tela de Cadastro da Bibliotecária)
+![Captura de tela 2023-10-24 085638](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/f91e6eac-3148-4b65-bd03-e19b80c2cc30)
 
-## 4- Após isso, o comando da tela passará para a bibliotecária, em que a própria devrá preencher os campos da terceira opção, ou seja, os dados do livro, juntamente com a data de entrega e de devolução do próprio:
--Nome do livro:
+## 3- Ao selecionar a segunda opção da tela inical, o indivíduo poderá ver a tabela dos demais que se registraram:
 
--Autor do livro:
+![Captura de tela 2023-10-24 085942](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/1cafcd66-6eb0-4b9a-9ae8-c5fde89a9270)
 
--Data de entrega:
-
--Data de devolução:
-
--(Imagem Tela de Cadastro do Livro)
 
 # Consultas
 
