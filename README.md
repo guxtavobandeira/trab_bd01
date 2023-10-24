@@ -159,70 +159,81 @@ ALTER TABLE aluno_livro ADD CONSTRAINT FK_aluno_livro_2
     SELECT * FROM aluno WHERE curso_aluno = 'Enfermagem'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/7839221c-05d9-4851-9865-85568180fbfe)
-
+#### Tabela gerada:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/6257389c-8e42-48fa-bca4-377adb8c7cd6)
 
 ### Listar alunos do curso de Informática;
 ```SQL
     SELECT * FROM aluno WHERE curso_aluno = 'Informática'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/48079be7-d35f-4747-b0a0-2f2a1601b5af)
-
+#### Tabela gerada:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/c72bb197-c0fe-45ec-a1f8-45dfa749ed10)
 
 ### Listar alunos do curso de Comércio;
 ```SQL
     SELECT * FROM aluno WHERE curso_aluno = 'Comércio'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/04eaf803-06e2-4b22-9977-20ecccde5797)
-
+#### Tabela gerada:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/5652e3b4-2430-4d9d-a9b0-bf6e18acf630)
 
 ### Listar alunos do curso de Administração;
 ```SQL
     SELECT * FROM aluno WHERE curso_aluno = 'Administração'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/ebe92028-538f-4768-b4a4-66ffe1e40318)
-
+#### Tabela gerada:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/c158c8e3-6c7a-49a3-bb0c-c49a6e18f8d7)
 
 ### Listar usuários do sexo Masculino;
 ```SQL
     SELECT * FROM aluno WHERE sexo_aluno = 'Masculino'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/dc7954a1-ee5c-4f67-bd9a-f462b12fcc4e)
-
+#### Tabela gerada:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/fedd8d5a-1f0c-46f9-b7c9-ca90af3c49ba)
 
 ### Listar usuários do sexo Feminino;
 ```SQL
     SELECT * FROM aluno WHERE sexo_aluno = 'Feminino'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/d4c07ed4-4295-460f-8d58-77afc53be234)
-
+#### Tabela gerada:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/6d4185a8-25df-4473-ba06-cd290ecbd8d1)
 
 ### Listar usuários do 1º ano;
 ```SQL
     SELECT * FROM aluno WHERE serie = '1'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/41e8ebc2-e3e9-43c0-a62d-90a8ab11672c)
-
+#### Tabela gerada:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/cfdc1f49-3a7e-4f2d-89bd-604eebfe79f8)
 
 ### Listar consultas em que a bibliotecária seja a Aureni;
 ```SQL
     SELECT * FROM bibliotecaria WHERE nome_bib = 'Aureni'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/95c5408b-3af8-45ec-8328-513cc6972a54)
-
+#### Tabela gerada:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/cb12767d-1c62-4063-9e99-763705c5e50b)
 
 ### Listar livros cujo autor é Manoel Gomes;
 ```SQL
     SELECT * FROM livro WHERE autor = 'Manoel Gomes'
 ```
 ![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/3434f4b3-04e0-4d34-87ba-9f88d114f3c1)
+####Tabela gerada:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/f1cfe774-b7c0-4bf8-bc51-214295049b7e)
 
-
-### Listar usuários do 3º ano;
+### Listar todos os alunos;
 ```SQL
-    SELECT * FROM aluno WHERE serie = '3'
+    SELECT * FROM aluno 
 ```
-![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/4d67ff83-1b09-427f-98f3-22edfaffd584)
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/9fd9fb31-5f51-43eb-970e-bd635c8eeb92)
 
+#### Tabela gerada:
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/1662ae93-d0c9-4f7a-826a-4e9db0d6b36c)
 
 #### Conclusão
 
