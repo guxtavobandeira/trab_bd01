@@ -158,6 +158,71 @@ ALTER TABLE aluno_livro ADD CONSTRAINT FK_aluno_livro_2
 -Data de devolução:
 
 -(Imagem Tela de Cadastro do Livro)
+
+# Consultas
+
+```SQL
+    SELECT * FROM aluno WHERE curso_aluno = 'Enfermagem'
+```
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/7839221c-05d9-4851-9865-85568180fbfe)
+
+
+```SQL
+    SELECT * FROM aluno WHERE curso_aluno = 'Informática'
+```
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/48079be7-d35f-4747-b0a0-2f2a1601b5af)
+
+
+```SQL
+    SELECT * FROM aluno WHERE curso_aluno = 'Comércio'
+```
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/04eaf803-06e2-4b22-9977-20ecccde5797)
+
+
+```SQL
+    SELECT * FROM aluno WHERE curso_aluno = 'Administração'
+```
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/ebe92028-538f-4768-b4a4-66ffe1e40318)
+
+
+```SQL
+    SELECT * FROM aluno WHERE sexo_aluno = 'Masculino'
+```
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/dc7954a1-ee5c-4f67-bd9a-f462b12fcc4e)
+
+
+```SQL
+    SELECT * FROM aluno WHERE sexo_aluno = 'Feminino'
+```
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/d4c07ed4-4295-460f-8d58-77afc53be234)
+
+
+```SQL
+    SELECT * FROM aluno WHERE serie = '1'
+```
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/41e8ebc2-e3e9-43c0-a62d-90a8ab11672c)
+
+
+```SQL
+    SELECT * FROM bibliotecaria WHERE nome_bib = 'Aureni'
+```
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/95c5408b-3af8-45ec-8328-513cc6972a54)
+
+
+```SQL
+    SELECT * FROM livro WHERE autor = 'Manoel Gomes'
+```
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/3434f4b3-04e0-4d34-87ba-9f88d114f3c1)
+
+
+```SQL
+    SELECT * FROM aluno WHERE serie = '3'
+```
+![image](https://github.com/guxtavobandeira/trab_bd01/assets/111713549/4d67ff83-1b09-427f-98f3-22edfaffd584)
+
+
+#### Conclusão
+
 ##### Em outra observação, o trabalho pode ser uma visualização de um sistema de cadastro para a biblioteca da EEEP MANOEL MANO, em que o site esta visando melhorar e facilitar o recebimento e entrega de livros tanto para os alunos quanto para as bibliotecárias. 
 # Agradecemos a visualização.
 
